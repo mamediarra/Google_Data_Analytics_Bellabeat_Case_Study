@@ -1,3 +1,4 @@
 # Google_Data_Analytics_Bellabeat_Case_Study
 
-Initial commit
+Author : Mame Diarra NIANE
+Date : October 2023
