@@ -11,7 +11,7 @@
 
 ## 2. Data Overview 📁
 
-- **Source(s) of the Data**: Kaggle Mobius
+- **Source(s) of the Data**:[Crowd-sourced Fitbit datasets] ](https://zenodo.org/records/53894#.X9oeh3Uzaao)
 
 [FitBit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
 
